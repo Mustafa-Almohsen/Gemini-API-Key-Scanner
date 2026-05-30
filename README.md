@@ -18,9 +18,9 @@ Scans targets for exposed Google API keys, validates them against Gemini APIs, b
 
 ## Installation
 
-git clone https://github.com/Mustafa-Almohsen/Gemini-API-Key-Scanner | 
+git clone https://github.com/Mustafa-Almohsen/Gemini-API-Key-Scanner  
 
-cd Gemini-API-Key-Scanner | 
+cd Gemini-API-Key-Scanner  
 
 pip install requests
 
