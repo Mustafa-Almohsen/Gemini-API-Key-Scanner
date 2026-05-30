@@ -1,3 +1,4 @@
+
 Scans targets for exposed Google API keys, validates them against Gemini APIs, bypasses referrer restrictions, and demonstrates real impact by uploading data to prove access.
 
 ---
