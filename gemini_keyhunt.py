@@ -2,7 +2,7 @@
 """
 ==============================================================================
   GEMINI KEYHUNT  -  Google / Gemini API Key Scanner & Impact Validator
-  By: Mustafa - Hajus   |   Refactored / Hardened build
+  By: Mustafa - Hajus 
 ==============================================================================
 
 WHAT IT DOES
