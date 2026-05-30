@@ -42,6 +42,7 @@ python3 gemini_keyhunt.py
 | `--validate-key KEY` | Validate a single API key |
 | `--validate-list FILE` | Validate keys from file |
 | `--capability KEY` | Full capability test on a key |
+| `--yes` | Assume yes to prompts (non-interactive / cron) |
 | `--depth N` | Crawl depth (default: 2) |
 | `--threads N` | Concurrent threads (default: 10) |
 | `--output FILE` | Output file for results |
