@@ -4,22 +4,22 @@ Scans targets for exposed Google API keys, validates them against Gemini APIs, b
 
 ## Features
 
-- Multi-target scanning** - Single URL, domain list, JS file, or JS URL list
-- Deep crawling** - Configurable depth to discover JS files
+- Multi-target scanning - Single URL, domain list, JS file, or JS URL list
+- Deep crawling - Configurable depth to discover JS files
 - Smart regex** - Extracts `AIza...` keys from JavaScript
-- Automatic validation** - Tests each key against Gemini `generateContent`
+- Automatic validation - Tests each key against Gemini `generateContent`
 - Referer bypass** - Auto-retries with `Referer: https://www.google.com/` on 403
-- Impact demonstration** - Uploads corpus + document to prove write access
-- Max corpora handling** - Auto-deletes old corpora if limit (10) is hit
-- Capability testing** - Tests text/image/TTS/video generation, saves evidence
+- Impact demonstration - Uploads corpus + document to prove write access
+- Max corpora handling - Auto-deletes old corpora if limit (10) is hit
+- Capability testing - Tests text/image/TTS/video generation, saves evidence
 - Threaded - Fast concurrent scanning
 
 ---
 
 ## Installation
 
-git clone https://github.com/youruser/gk-keyhunt.git
-cd gk-keyhunt
+git clone https://github.com/Mustafa-Almohsen/Gemini-API-Key-Scanner
+cd Gemini-API-Key-Scanner
 pip install requests
 
 ---
