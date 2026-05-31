@@ -1,3 +1,9 @@
+## Demo
+
+https://github.com/user-attachments/assets/ef09a517-b183-4096-9bbe-a72f3005ebd9
+
+
+
 
 Scans targets for exposed Google API keys, validates them against Gemini APIs, bypasses referrer restrictions, and demonstrates real impact by uploading data to prove access.
 
