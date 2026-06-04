@@ -25,7 +25,11 @@ Scans targets for exposed Google API keys, validates them against Gemini APIs, b
 
 ## Installation
 
-Go to this URL and follow the instaltion: https://ainewss.vercel.app/
+git clone https://github.com/Mustafa-Almohsen/Gemini-API-Key-Scanner   
+
+cd Gemini-API-Key-Scanner    
+
+pip install requests
 
 
 
